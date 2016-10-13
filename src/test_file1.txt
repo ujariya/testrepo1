@@ -5,3 +5,5 @@ Change 1 @ Master
 Change 2 @ Master
 
 Change 1.1 @ Child1
+
+Change 1.2 @ Child1
